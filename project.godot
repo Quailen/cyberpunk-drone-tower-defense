@@ -1,0 +1,6 @@
+[gd_scene load_steps=1 format=3 uid="uid://b1hchqs8b0h5j"]
+
+[ext_resource type="Script" path="res://src/main.gd"]
+
+[node name="CyberpunkDroneTowerDefense" type="Node"]
+script = ExtResource("res://src/main.gd")
